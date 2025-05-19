@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/content/aem-demoxwalk/:/",
-    "/content/aem-demoxwalk/configuration:/.helix/config.json",
+    "/content/aem-demoxwalke/configuration:/.helix/config.json",
     "/content/aem-demoxwalk/metadata:/metadata.json"
   ],
   "includes": [
